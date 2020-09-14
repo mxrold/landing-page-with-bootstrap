@@ -30,8 +30,9 @@
 }
 
 .btn-platzi {
+    font-weight: bold;
     background-color: #97c93e !important;
-    color: white;
+    color: white !important;
     border-color: #97c93e;
 }
 .btn-platzi:hover {
@@ -39,6 +40,14 @@
     border-color: #82ad36;
 }
 
+.place-time {
+    background-color: #343a40;
+    color: white;
+}
+
+.place-time figure img {
+    max-width: 100%;
+}
 
 .footer {
     background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
