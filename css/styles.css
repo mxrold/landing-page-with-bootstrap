@@ -49,6 +49,12 @@
     max-width: 100%;
 }
 
+.ignite {
+    text-decoration: none !important;
+    color: #82ad36;
+    font-weight: bold;
+}
+
 .footer {
     background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
 }
