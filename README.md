@@ -4,7 +4,7 @@ It is a project of the Bootstrap course on Platzi based on a conference site. Bu
 
 ## Preview
 
-![Design preview for the site](./images/landing-page-with-bootstrap-desktop.png)
+![Design preview for the site](./images/landing-page-with-bootstrap.png)
 
 ## Demo
 
